@@ -3,6 +3,9 @@
 
 You can see all my activity below.
 
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=FCC624)
+
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/Zeoforex/Zeoforex">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Zeoforex&show_icons=true&theme=radical" />
