@@ -6,7 +6,7 @@ You can see all my activity below.
 ## 🔧 Technologies & Tools & Skills
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=black&color=FCC624)
 ![](https://img.shields.io/badge/Bash-Shell-informational?style=flat&logo=gnu-bash&logoColor=white&color=4EAA25)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=007396)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=eb8b23)
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/Zeoforex/Zeoforex">
