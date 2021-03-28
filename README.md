@@ -1,6 +1,9 @@
 ### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, This is Zeoforex
 
 [![Gmail Badge](https://img.shields.io/badge/dshoma853@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dshoma853@gmail.com)](mailto:dshoma853@gmail.com) 
+[![Github Badge](https://img.shields.io/badge/Zeoforex-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Zeoforex/)](https://www.github.com/Zeoforex/)
+
+
 You can see all my activity below.
 
 ## 🔧 Technologies & Tools & Skills
