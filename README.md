@@ -9,7 +9,7 @@ You can see all my activity below.
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=eb8b23)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=336791)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=000000)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=ff69b4)
 ![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=PyCharm&logoColor=white&color=success)
 
 ## &#x1f4c8; GitHub Stats
