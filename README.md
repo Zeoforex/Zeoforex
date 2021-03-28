@@ -8,6 +8,7 @@ You can see all my activity below.
 ![](https://img.shields.io/badge/Bash-Shell-informational?style=flat&logo=gnu-bash&logoColor=white&color=4EAA25)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=eb8b23)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=336791)
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/Zeoforex/Zeoforex">
