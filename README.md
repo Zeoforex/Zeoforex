@@ -2,7 +2,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/dshoma853@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dshoma853@gmail.com)](mailto:dshoma853@gmail.com) 
 [![Github Badge](https://img.shields.io/badge/Zeoforex-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Zeoforex/)](https://www.github.com/Zeoforex/)
-My name is Murat Dibirov and I'm java developer(may be). I'm from Russia, living in Moscow and I study Applied Informatics at the Financial University under the Government of the Russian Federation. You can find me [![vk][1.2]]
+My name is Murat Dibirov and I'm java developer(may be). I'm from Russia, living in Moscow and I study Applied Informatics at the Financial University under the Government of the Russian Federation. 
 
 You can see all my activity below.
 
@@ -25,8 +25,7 @@ You can see all my activity below.
 
 
 
-<!-- links to your social media accounts -->
-[1.2]: https://i.imgur.com/TkSU9dN.png (vk icon without padding)
+
 
 <!--
 **Zeoforex/Zeoforex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
