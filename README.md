@@ -2,7 +2,8 @@
 
 [![Gmail Badge](https://img.shields.io/badge/dshoma853@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dshoma853@gmail.com)](mailto:dshoma853@gmail.com) 
 [![Github Badge](https://img.shields.io/badge/Zeoforex-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Zeoforex/)](https://www.github.com/Zeoforex/)
-My name is Murat Dibirov and I'm java developer(may be). I'm from Russia, living in Moscow and I study Applied Informatics at the Financial University under the Government of the Russian Federation. 
+
+## My name is Murat Dibirov and I'm java developer(may be). I'm from Russia, living in Moscow and I study Applied Informatics at the Financial University under the Government of the Russian Federation. 
 
 You can see all my activity below.
 
