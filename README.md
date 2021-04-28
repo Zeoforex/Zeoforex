@@ -18,9 +18,7 @@
 
 
 ## &#x1f4c8; GitHub Stats
-<a href="https://github.com/Zeoforex/Zeoforex">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Zeoforex&show_icons=true&theme=radical"/>
-</a>
+
 
 
 
